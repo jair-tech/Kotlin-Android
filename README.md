@@ -1,2 +1,2 @@
 # Kotlin-Android
-armazenamento remoto de scripts desenvolvidos em kotlin
+Armazenamento remoto de scripts desenvolvidos em kotlin.
